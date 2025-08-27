@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Carlos!
 
-<!--
-**carloshnunes/carloshnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end Developer** | React • TypeScript • Tailwind CSS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=carloshnunes&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshnunes&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Projetos em destaque
+- [Meu Projeto 1](#) – descrição rápida
+- [Meu Projeto 2](#) – descrição rápida
+
+---
+
+✨ *“Transformando ideias em interfaces elegantes — uma linha de código por vez.”*
