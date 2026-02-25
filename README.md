@@ -1,25 +1,37 @@
 # 👋 Olá, eu sou o Carlos!
 
-**Front-end Developer** | React • TypeScript • Tailwind CSS
+Front-end Developer especializado em React, TypeScript e Tailwind CSS.  
+Foco em aplicações escaláveis, componentização e performance.
 
 ---
 
 ## 🚀 Tecnologias
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 🧠 O que eu construo
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carloshnunes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carloshnunes&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
+- Interfaces modernas e responsivas
+- Arquitetura front-end escalável
+- Componentização reutilizável
+- Integração com APIs REST
+- Organização e padronização de código
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔹 Dashboard Admin (React + TS)
+- 🔹 Design System com Tailwind
+- 🔹 Template de arquitetura front-end
+
+---
+
+## 📫 Contato
+
+- LinkedIn
+- Email profissional
