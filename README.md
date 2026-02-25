@@ -12,7 +12,8 @@
 ---
 
 ## 📊 Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=carloshnunes&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshnunes&layout=compact&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloshnunes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshnunes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
