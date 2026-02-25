@@ -1,37 +1,28 @@
-# 👋 Olá, eu sou o Carlos!
+# Carlos Henrique Nunes
 
 Front-end Developer especializado em React, TypeScript e Tailwind CSS.  
-Foco em aplicações escaláveis, componentização e performance.
+Atuo no desenvolvimento de aplicações web focadas em organização de código, componentização e escalabilidade.
 
 ---
 
-## 🚀 Tecnologias
+## Stack principal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,git,github" />
 </p>
 
 ---
 
-## 🧠 O que eu construo
+## Sobre
 
-- Interfaces modernas e responsivas
-- Arquitetura front-end escalável
-- Componentização reutilizável
-- Integração com APIs REST
-- Organização e padronização de código
+Desenvolvedor front-end com experiência na construção e manutenção de interfaces modernas.  
+Trabalho com foco em arquitetura de componentes, integração com APIs e padronização de código para facilitar evolução e manutenção de sistemas.
 
----
-
-## 📌 Projetos em destaque
-
-- 🔹 Dashboard Admin (React + TS)
-- 🔹 Design System com Tailwind
-- 🔹 Template de arquitetura front-end
+Grande parte da minha atuação envolve projetos privados.
 
 ---
 
-## 📫 Contato
+## Contato
 
-- LinkedIn
-- Email profissional
+LinkedIn: https://www.linkedin.com/in/carlos-henrique-nunes-73b292100  
+Email: carloshnunes@live.com
